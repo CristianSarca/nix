@@ -155,7 +155,7 @@ $dropdown-bg:                       $card-bg !default;
 $dropdown-border-color:             transparent !default;
 $dropdown-border-radius:            0 !default;
 $dropdown-border-width:             0 !default;
-$dropdown-divider-bg:               lighten($card-bg, 5%) !default;
+$dropdown-divider-bg:               $gray-300 !default;
 $dropdown-box-shadow:               0 2px 1px rgba($dark, .3);
 
 $dropdown-link-color:               $dark !default;
