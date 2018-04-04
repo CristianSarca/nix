@@ -1,2 +1,2 @@
-# nix
-Nix theme for Boostrap 4
+# Nix Theme
+For Boostrap 4
