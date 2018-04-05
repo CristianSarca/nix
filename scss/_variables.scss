@@ -61,7 +61,7 @@ $headings-font-weight:        400 !default;
 
 // Spacing
 
-$spacer: 1.6rem !default;
+$spacer: 1.55rem !default;
 
 //Border radius and others
 
@@ -79,7 +79,7 @@ $font-size-base:              .95rem !default;
 
 // Navbar
 
-$navbar-padding-y:                  ($spacer / .7) !default;
+$navbar-padding-y:                  ($spacer / 1) !default;
 $navbar-dark-color:                 rgba($white, .9) !default;
 $navbar-dark-toggler-border-color:  rgba($white, .5) !default;
 $navbar-light-color:                rgba($black, .9) !default;
